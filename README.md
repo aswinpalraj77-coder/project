@@ -41,7 +41,7 @@ The **KSP AI Crime Intelligence Platform** is a next-generation police tech solu
 ## 🚀 Live Demo & Quick Access
 
 - **GitHub Public Repository**: [https://github.com/aswinpalraj77-coder/project](https://github.com/aswinpalraj77-coder/project)
-- **Live Deployed Prototype**: *(Insert your Zoho Catalyst / Vercel / Netlify Link here after deployment)*
+- **Live Deployed Prototype**: [https://aswinpalraj77-coder.github.io/project/](https://aswinpalraj77-coder.github.io/project/)
 
 ### Quick Login Previews (Demo Accounts)
 | Role | Portal Route | Capabilities |
